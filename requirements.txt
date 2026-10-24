@@ -4,7 +4,7 @@ Django==6.0.7
 django-cors-headers==4.9.0
 django-stubs==6.0.7
 django-stubs-ext==6.0.7
-djangorestframework==3.17.1
+djangorestframework==3.18.2
 djangorestframework-stubs==3.17.0
 djangorestframework_simplejwt==5.5.1
 drf-spectacular==0.30.0
